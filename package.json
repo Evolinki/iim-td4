@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Evolinki/iim-td4#readme",
   "devDependencies": {
+    "eslint": "^8.44.0",
     "jest": "^29.6.1"
   }
 }
