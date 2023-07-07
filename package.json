@@ -1,0 +1,22 @@
+{
+  "name": "behlouli_iim_td4",
+  "version": "1.0.1",
+  "description": "another beautiful package",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evolinki/iim-td4.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Evolinki/iim-td4/issues"
+  },
+  "homepage": "https://github.com/Evolinki/iim-td4#readme",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
